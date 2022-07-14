@@ -8,6 +8,8 @@ Use of a spy mirror, a black background with white text output on a monitor, com
 
 ![MagciMirrorFrontView](https://github.com/MichiMich/FilesForInstructions/blob/main/MagicMirror/MMFrontView.jpg)
 
+<img src="https://github.com/MichiMich/FilesForInstructions/blob/main/MagicMirror/MMFrontView.jpg" width="300" height="300"/>
+
 ### Code 
 
 Use the template of [MagicMirror²](https://magicmirror.builders/), combined it with a camera and a motion detection software (python + openCV), instructed by [PyImagesearch](https://pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/) and some code adaptions for triggering the screen from standby if something occurs in front of the mirror.
