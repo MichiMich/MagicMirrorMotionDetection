@@ -6,9 +6,7 @@
 
 Use of a spy mirror, a black background with white text output on a monitor, combined with a motion detection software, mounted in a wooden frame.
 
-![MagciMirrorFrontView](https://github.com/MichiMich/FilesForInstructions/blob/main/MagicMirror/MMFrontView.jpg)
-
-<img src="https://github.com/MichiMich/FilesForInstructions/blob/main/MagicMirror/MMFrontView.jpg" width="300" height="300"/>
+<img src="https://github.com/MichiMich/FilesForInstructions/blob/main/MagicMirror/MMFrontView.jpg" width="333" height="500"/>
 
 ### Code 
 
